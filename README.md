@@ -6,3 +6,5 @@ This line was added remotely from GitHub.
 this line is added locally to repeat the above process
 This line was updated locally at the same time
 Another line s added to readme.md for resetting commits
+Created a small change in the file
+Realzed to forget change this file
